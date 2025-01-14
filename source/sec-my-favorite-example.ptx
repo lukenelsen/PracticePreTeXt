@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-my-favorite-example" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>My Favorite Example</title>
+
+  <p> Text of section. </p>
+
+<definition xml:id="def-itsadef">
+    <statement>
+        <p>
+            I define bankruptcy!
+            <me>
+                2=2+4
+            </me>
+            
+        </p>
+    </statement>
+</definition>
+
+<theorem xml:id="thm-">
+    <statement>
+        <p>
+            Yeppers!
+        </p>
+    </statement>
+</theorem>
+
+<example>
+    <p>
+        Q:  What do you call a large pile of kittens?
+    </p>
+    <p>
+        A:  A meow-ntain!  XD
+    </p>
+</example>
+
+
+
+</section>
